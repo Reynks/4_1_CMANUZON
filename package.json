@@ -1,0 +1,19 @@
+{
+  "name": "4_1_cmanuzon",
+  "version": "1.0.0",
+  "description": "_\r ### Age - 22\r _\r ### This is an example of a full stack web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reynks/4_1_CMANUZON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reynks/4_1_CMANUZON/issues"
+  },
+  "homepage": "https://github.com/Reynks/4_1_CMANUZON#readme"
+}
